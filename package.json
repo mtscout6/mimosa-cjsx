@@ -3,12 +3,13 @@
   "version": "1.0.1",
   "description": "A Coffeescript JSX/React compiler for Mimosa",
   "keywords": [
+    "coffee",
+    "coffeescript",
+    "compiler",
+    "jsx",
     "mimosa",
     "module",
-    "react",
-    "jsx",
-    "coffeescript",
-    "compiler"
+    "react"
   ],
   "dependencies": {
     "coffee-react": "^0.1.1"

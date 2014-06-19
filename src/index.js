@@ -8,10 +8,11 @@ var config = require( "./config" )
 var compile = function ( mimosaConfig, file, cb ) {
   var output
     , error
-    , text = file.inputFileText;
+    , text = file.inputFileText
+    , options = mimosaConfig.cjsx.options;
 
   try {
-    output = mimosaConfig.cjsx.lib.compile( text );
+    output = mimosaConfig.cjsx.lib.compile( text, options );
   } catch ( err ) {
     error = err;
   }
