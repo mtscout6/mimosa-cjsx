@@ -1,6 +1,6 @@
 {
   "name": "mimosa-cjsx",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A Coffeescript JSX/React compiler for Mimosa",
   "keywords": [
     "coffee",

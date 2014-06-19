@@ -1,11 +1,9 @@
-mimosa-react
+mimosa-cjsx
 ===========
 
 ## Overview
 
-This is a Coffeescript + React/JSX compiler for the Mimosa build tool. It will precompile your `.cjsx` files using [coffee-react](https://github.com/jsdf/coffee-react)
-
-For more information regarding Mimosa, see http://mimosa.io
+This is a [Coffeescript](http://coffeescript.org/) + [React/JSX](http://facebook.github.io/) compiler for the [Mimosa](http://mimosa.io/) build tool. It will precompile your `.cjsx` files using [coffee-react](https://github.com/jsdf/coffee-react)
 
 ## Usage
 
