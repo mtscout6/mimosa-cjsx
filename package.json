@@ -1,7 +1,18 @@
 {
   "name": "mimosa-cjsx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Coffeescript JSX/React compiler for Mimosa",
+  "author": "Bob Pace",
+  "mainteners": [{
+    "name": "Matt Smith",
+    "email": "mtscout6@gmail.com",
+    "url": "http://softwarebymatt.com"
+  }],
+  "homepage": "https://github.com/mtscout6/mimosa-cjsx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mtscout6/mimosa-cjsx"
+  },
   "keywords": [
     "coffee",
     "coffeescript",
