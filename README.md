@@ -22,5 +22,5 @@ cjsx: {
 }
 ```
 
-* `lib`: You may want to use this module but may not be ready to use the latest version of the `react-tools`. Using the `lib` property you can provide a specific version of `react-tools` if the one being used by this module isn't to your liking. To provide a specific version, you must have it `npm install`ed into your project and then provide it to `lib`. For instance: `lib: require("coffee-react")`
+* `lib`: You may want to use this module but may not be ready to use the latest version of the `coffee-react`. Using the `lib` property you can provide a specific version of `coffee-react` if the one being used by this module isn't to your liking. To provide a specific version, you must have it `npm install`ed into your project and then provide it to `lib`. For instance: `lib: require("coffee-react")`
 * `extensions`: an array of strings, the extensions of your Coffeescript React/JSX files.
