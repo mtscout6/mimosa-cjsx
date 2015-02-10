@@ -1,6 +1,6 @@
 {
   "name": "mimosa-cjsx",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A Coffeescript JSX/React compiler for Mimosa",
   "author": "Bob Pace",
   "mainteners": [{
@@ -22,8 +22,8 @@
     "module",
     "react"
   ],
-  "dependencies": {
-    "coffee-react": "^0.1.1"
+  "peerDependencies": {
+    "coffee-react": "*"
   },
   "license": "MIT",
   "main": "./src",
